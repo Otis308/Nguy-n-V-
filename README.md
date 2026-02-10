@@ -1,10 +1,10 @@
 # Hi there, I'm [NguyenVu], you can call me Jos 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **GuitarShop_FastAPI**
-- 🌱 I’m currently learning **Docker, Kubernetes & System Design**
-- 🎯 Goal: Becoming a Senior Backend Developer
-- 📚 Goal: TOEIC Certification
+- I’m currently working on **GuitarShop_FastAPI**
+- I’m currently learning **Docker, Kubernetes & System Design**
+- Goal: Becoming a Senior Backend Developer
+- Goal: TOEIC Certification
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,4 +16,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula" alt="Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula" alt="Languages" height="150" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis308&show_icons=true&theme=radical)
