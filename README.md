@@ -1,7 +1,7 @@
 ### 👨‍💻 Professional Summary
 I am a **Backend Developer** specializing in the Python ecosystem. I focus on building scalable APIs (FastAPI), optimizing system performance, and applying modern DevOps practices.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
