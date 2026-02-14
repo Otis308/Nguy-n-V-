@@ -1,4 +1,4 @@
-## 👨‍💻 Professional Summary
+### 👨‍💻 Professional Summary
 I am a **Backend Developer** specializing in the Python ecosystem. I focus on building scalable APIs (FastAPI), optimizing system performance, and applying modern DevOps practices.
 
 ## 🛠️ Tech Stack
@@ -10,16 +10,14 @@ I am a **Backend Developer** specializing in the Python ecosystem. I focus on bu
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-</div>
 
-## 📁 Featured Projects
+### 📁 Featured Projects
 | Project Name | Description | Tech Used |
 | :--- | :--- | :--- |
 | **🛒 E-commerce** | _[Link to project]_ | `FastAPI` `PostgreSQL` |
 | **📅 Booking System** | _[Link to project]_ | `Python` `Docker` |
 
-## 🤝 Connect with me
-
+### 🤝 Connect with me
 <div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dtnguyenvu3025@gmail.com)
