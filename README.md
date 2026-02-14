@@ -12,10 +12,10 @@ I am a dedicated **Backend Developer** specializing in Python ecosystem. I focus
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Core:**
+**Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-**Backend Frameworks & Web Server:**
+**Frameworks:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
@@ -23,29 +23,14 @@ I am a dedicated **Backend Developer** specializing in Python ecosystem. I focus
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-**DevOps & Tools:**
+**DevOps:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Otis308">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Otis308&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/Otis308">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otis308&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otis308&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
+**Project:**
+![E-commerce]: 
 ---
-
 ### 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dtnguyenvu3025@gmail.com)
