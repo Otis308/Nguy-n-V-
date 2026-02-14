@@ -4,10 +4,9 @@
 ### 👨‍💻 Professional Summary
 I am a **Backend Developer** specializing in Python ecosystem. I focus on building scalable APIs (FastAPI), optimizing system performance, and applying modern DevOps practices.
 
-###  📁 Project
+### 📁 Project
 [E-commerce]: 
-[LMS]: 
 [Booking System]:
 
-### 📫 Connect with me
+### 🤝 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dtnguyenvu3025@gmail.com)
